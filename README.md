@@ -23,11 +23,8 @@ Estes três links são **obrigatórios** e devem ser idênticos aos do PDF de su
 | Item | Link |
 | --- | --- |
 | Repositório | https://github.com/lguilherme09/Tech-Challenge-2-FIAP |
-| Vídeo executivo (≤ 5 min) | https://drive.google.com/file/d/1n8SFZ7I9Z1GZib4R41MSNBt92XaMVWmk/view?usp=drive_link |
-| Apresentação | https://docs.google.com/presentation/d/1LQ9jfwEfevdiR_62fzwVcfRdnidHqXqZ/view?usp=drive_link |
-
-> ⚠️ **Atenção:** ao testar os dois links do Drive em janela anônima, o vídeo pediu login (erro 401) e a apresentação retornou "File could not open" — provavelmente o compartilhamento ainda não está como "Qualquer pessoa com o link". Ajuste a permissão para **Leitor** antes de submeter, e confirme abrindo os dois links em uma janela anônima.
-> Repositório privado ou inacessível **zera** toda a Dimensão 1 da rúbrica.
+| Vídeo executivo (≤ 5 min) | https://drive.google.com/file/d/1n8SFZ7I9Z1GZib4R41MSNBt92XaMVWmk/view?usp=sharing |
+| Apresentação | https://docs.google.com/presentation/d/1LQ9jfwEfevdiR_62fzwVcfRdnidHqXqZ/edit?usp=sharing&ouid=103326142967918665541&rtpof=true&sd=true |
 
 ---
 
