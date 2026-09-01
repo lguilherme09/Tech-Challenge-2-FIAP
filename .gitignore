@@ -1,0 +1,26 @@
+# Dataset bruto — baixe conforme instruções em data/README.md
+data/raw/*
+!data/raw/.gitkeep
+
+# Dados e modelos gerados pelo pipeline (notebooks 02 e 03)
+data/processed/*
+!data/processed/.gitkeep
+
+# Modelos serializados
+*.pkl
+
+# Ambiente virtual
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
